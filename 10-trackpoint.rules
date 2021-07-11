@@ -1,0 +1,1 @@
+ACTION=="add", KERNEL=="serio2", DRIVERS=="psmouse", ATTR{sensitivity}="140", ATTR{speed}="99",ATTR{drift_time}="25"
